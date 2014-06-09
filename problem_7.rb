@@ -3,7 +3,7 @@
 
 def nth_prime(n)
   # avoid starting at 0
-  count = 2
+  count = 1
   num_to_check = 3
   until count == n
     count += 1 if prime?(num_to_check)
