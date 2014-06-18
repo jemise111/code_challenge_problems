@@ -1,5 +1,6 @@
-My solutions to some selected project euler problems. Problems found at
+Selected code challenges and practice from various websites
+problem descriptions in source code when applicable
+
 [projecteuler.net]( http://projecteuler.net )
 
-Also solutions to interview cake questions.
 [interviewcake.com]( https://interviewcake.com )
